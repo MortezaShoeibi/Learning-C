@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1663422417 source:d:\programming\archive\c\learning-c\lowercasecharacter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
