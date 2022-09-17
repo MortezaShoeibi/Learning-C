@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663419976 source:d:\programming\archive\c\learning-c\getchar\main.c
+	<stdio.h>
+	<stdlib.h>
+
