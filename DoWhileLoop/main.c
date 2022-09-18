@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 /*
-    The difference between the While loop anf the Do-While loop is:
+    The difference between the While loop and the Do-While loop is:
     in the Do-While loop the statements will be executed for once even if the condition is false.
 */
 
