@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663572713 source:d:\programming\archive\c\learning-c\forloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
