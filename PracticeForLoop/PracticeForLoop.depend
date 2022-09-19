@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663606172 source:d:\programming\archive\c\learning-c\practiceforloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
