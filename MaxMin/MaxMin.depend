@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1663641220 source:d:\programming\archive\c\learning-c\maxmin\main.c
+	<stdio.h>
+	<stdlib.h>
+
