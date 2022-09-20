@@ -1,10 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-
-// I'm not sure about it because I didn't quite get the question but I'm sending it any way
-
-
 int main()
 {
     int a, b, c;
