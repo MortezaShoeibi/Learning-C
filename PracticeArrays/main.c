@@ -11,7 +11,7 @@ int main()
     const int list_size = 20;
     int list[list_size];
 
-    for (int i = 1; i <= list_size; i++)
+    for (int i = 0; i < list_size; i++)
     {
         if (i == 1)
         {
@@ -38,7 +38,7 @@ int main()
 
     insertion_sort(list, list_size);
     print_array(list, list_size);
-    
+
     return 0;
 }
 
@@ -46,7 +46,7 @@ void insertion_sort(int array[], int array_size)
 {
     int selected_item, j;
 
-    for (int i = 1; i < array_size; i++)
+    for (int i = 0; i < array_size; i++)
     {
         selected_item = array[i];
         j = i - 1;
@@ -62,7 +62,7 @@ void insertion_sort(int array[], int array_size)
 void print_array(int the_array[], int array_size)
 {
     puts("\nYour array in order:");
-    for (int i = 1; i <= array_size; i++)
+    for (int i = 0; i < array_size; i++)
     {
         if (i == array_size)
         {
