@@ -56,3 +56,6 @@ dkms.conf
 bin/
 obj/
 *.layout
+
+# tests
+TESTS/
