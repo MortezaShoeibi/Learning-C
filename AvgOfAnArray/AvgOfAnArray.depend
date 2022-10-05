@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664972368 source:d:\programming\archive\c\learning-c\avgofanarray\main.c
+	<stdio.h>
+	<stdlib.h>
+
