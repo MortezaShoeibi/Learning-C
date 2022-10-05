@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664707731 source:d:\programming\archive\c\learning-c\bubblesorte\main.c
+	<stdio.h>
+	<stdlib.h>
+
