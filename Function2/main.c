@@ -11,11 +11,11 @@ void kinda_counter(); // tell the compiler that we have a function called "count
 
 int main()
 {
-    kinda_counter(); // cal the counter function.
+    kinda_counter(); // call the counter function.
     return 0;
 }
 
-void kinda_counter() // code the counter function.
+void kinda_counter() // define the counter function.
 {
     int i;
     i++;
