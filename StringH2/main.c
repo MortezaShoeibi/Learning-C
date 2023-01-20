@@ -23,9 +23,9 @@ int main()
 
     /*
     NOTE: you can't compare strings valued variables
-        because they are pointers, to compare to strings
-        you have to user strcmp(); function.
-        if the tow variables were equal it'll return 0. 
+        because they are pointers, to compare two strings
+        you have to use strcmp(); function.
+        if the two variables were equal it'll return 0. 
     */
 
     if (strcmp(string1, string2) == 0)
